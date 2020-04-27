@@ -24,3 +24,4 @@ docs/_modules
 .envrc
 /tutorials/usecases/mtsamples
 /tutorials/usecases/runs
+/en_core_web_lg
